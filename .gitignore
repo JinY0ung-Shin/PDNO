@@ -1,0 +1,15 @@
+__pycache__
+.ipynb_checkpoints
+*/__pycache__
+*/.ipynb_checkpoints
+model/*
+*.ipynb
+test*
+*.sh
+*.out
+!bash/baseline.sh
+results/*
+*.bin
+!pretrained/ns1e-5.bin
+data/*.mat
+data/*.bin
